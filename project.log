@@ -1025,3 +1025,63 @@ dtype: int64
 2026-08-12 08:13:37 | INFO | M07 |   scikit-learn: 1.9.0
 2026-08-12 08:13:37 | INFO | M07 |   seaborn:      0.13.2
 2026-08-12 08:13:37 | INFO | M07 |   matplotlib:   3.11.1
+2026-08-12 08:37:02 | INFO | M07 | === RUN START ===
+2026-08-12 08:37:02 | INFO | M07 | project=M07
+2026-08-12 08:37:02 | INFO | M07 | repo_dir=ml-07-applied
+2026-08-12 08:37:02 | INFO | M07 | python=3.14.2
+2026-08-12 08:37:02 | INFO | M07 | os=Windows 11
+2026-08-12 08:37:02 | INFO | M07 | shell=powershell
+2026-08-12 08:37:02 | INFO | M07 | cwd=notebooks
+2026-08-12 08:37:02 | INFO | M07 | github_actions=False
+2026-08-12 08:37:02 | INFO | M07 | Confirming installation:
+2026-08-12 08:37:02 | INFO | M07 |   python:       3.14.2
+2026-08-12 08:37:02 | INFO | M07 |   pandas:       3.0.5
+2026-08-12 08:37:02 | INFO | M07 |   numpy:        2.5.2
+2026-08-12 08:37:02 | INFO | M07 |   scikit-learn: 1.9.0
+2026-08-12 08:37:02 | INFO | M07 |   seaborn:      0.13.2
+2026-08-12 08:37:02 | INFO | M07 |   matplotlib:   3.11.1
+2026-08-12 08:41:43 | INFO | M07 | === RUN START ===
+2026-08-12 08:41:43 | INFO | M07 | project=M07
+2026-08-12 08:41:43 | INFO | M07 | repo_dir=ml-07-applied
+2026-08-12 08:41:43 | INFO | M07 | python=3.14.2
+2026-08-12 08:41:43 | INFO | M07 | os=Windows 11
+2026-08-12 08:41:43 | INFO | M07 | shell=powershell
+2026-08-12 08:41:43 | INFO | M07 | cwd=notebooks
+2026-08-12 08:41:43 | INFO | M07 | github_actions=False
+2026-08-12 08:41:43 | INFO | M07 | Confirming installation:
+2026-08-12 08:41:43 | INFO | M07 |   python:       3.14.2
+2026-08-12 08:41:43 | INFO | M07 |   pandas:       3.0.5
+2026-08-12 08:41:43 | INFO | M07 |   numpy:        2.5.2
+2026-08-12 08:41:43 | INFO | M07 |   scikit-learn: 1.9.0
+2026-08-12 08:41:43 | INFO | M07 |   seaborn:      0.13.2
+2026-08-12 08:41:43 | INFO | M07 |   matplotlib:   3.11.1
+2026-08-12 08:44:10 | INFO | M07 | === RUN START ===
+2026-08-12 08:44:10 | INFO | M07 | project=M07
+2026-08-12 08:44:10 | INFO | M07 | repo_dir=ml-07-applied
+2026-08-12 08:44:10 | INFO | M07 | python=3.14.2
+2026-08-12 08:44:10 | INFO | M07 | os=Windows 11
+2026-08-12 08:44:10 | INFO | M07 | shell=powershell
+2026-08-12 08:44:10 | INFO | M07 | cwd=notebooks
+2026-08-12 08:44:10 | INFO | M07 | github_actions=False
+2026-08-12 08:44:10 | INFO | M07 | Confirming installation:
+2026-08-12 08:44:10 | INFO | M07 |   python:       3.14.2
+2026-08-12 08:44:10 | INFO | M07 |   pandas:       3.0.5
+2026-08-12 08:44:10 | INFO | M07 |   numpy:        2.5.2
+2026-08-12 08:44:10 | INFO | M07 |   scikit-learn: 1.9.0
+2026-08-12 08:44:10 | INFO | M07 |   seaborn:      0.13.2
+2026-08-12 08:44:10 | INFO | M07 |   matplotlib:   3.11.1
+2026-08-12 08:46:06 | INFO | M07 | === RUN START ===
+2026-08-12 08:46:06 | INFO | M07 | project=M07
+2026-08-12 08:46:06 | INFO | M07 | repo_dir=ml-07-applied
+2026-08-12 08:46:06 | INFO | M07 | python=3.14.2
+2026-08-12 08:46:06 | INFO | M07 | os=Windows 11
+2026-08-12 08:46:06 | INFO | M07 | shell=powershell
+2026-08-12 08:46:06 | INFO | M07 | cwd=notebooks
+2026-08-12 08:46:06 | INFO | M07 | github_actions=False
+2026-08-12 08:46:06 | INFO | M07 | Confirming installation:
+2026-08-12 08:46:06 | INFO | M07 |   python:       3.14.2
+2026-08-12 08:46:06 | INFO | M07 |   pandas:       3.0.5
+2026-08-12 08:46:06 | INFO | M07 |   numpy:        2.5.2
+2026-08-12 08:46:06 | INFO | M07 |   scikit-learn: 1.9.0
+2026-08-12 08:46:06 | INFO | M07 |   seaborn:      0.13.2
+2026-08-12 08:46:06 | INFO | M07 |   matplotlib:   3.11.1
