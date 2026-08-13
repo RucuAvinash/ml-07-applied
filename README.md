@@ -94,6 +94,12 @@ git clone https://github.com/RucuAvinash/ml-07-applied
 cd ml-07-applied
 code .
 ```
+# Link to the custom Notebook
+https://github.com/RucuAvinash/ml-07-applied/blob/main/notebooks/ml_07_rucu.ipynb
+https://github.com/RucuAvinash/ml-07-applied/blob/main/notebooks/ml_07_text_and_image_rucu.ipynb
+
+# custom commands
+uv run python -m mlstudio.app_rucu
 
 ### In a VS Code terminal
 
