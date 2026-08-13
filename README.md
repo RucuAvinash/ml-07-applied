@@ -44,49 +44,6 @@ You'll work with these areas:
 This project uses `requests` to make the calls.
 Be sure the requests package is listed in `pyproject.toml`.
 
-## Instructions (pro-analytics-02)
-
-Follow the
-[step-by-step workflow guide](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
-to complete:
-
-1. Phase 1. **Start & Run**
-2. Phase 2. **Change Authorship**
-3. Phase 3. **Read & Understand**
-4. Phase 4. **Modify**
-5. Phase 5. **Apply**
-
-## Challenges
-
-Challenges are expected.
-Sometimes instructions may not quite match your operating system.
-When issues occur, share screenshots, error messages, and details about what you tried.
-Working through issues is part of implementing professional projects.
-
-## Success
-
-After completing Phase 1. **Start & Run**, you'll have your own GitHub project,
-with the example notebook executed and committed,
-and running the example module will print out:
-
-```shell
-========================
-Executed successfully!
-========================
-```
-
-A new file `project.log` will appear in the root project folder.
-
-## Command Reference
-
-<details>
-<summary>Show command reference</summary>
-
-### In a machine terminal (open in your `Repos` folder)
-
-After you get a copy of this repo in your own GitHub account,
-open a machine terminal in your `Repos` folder:
-
 ```shell
 # Replace username with YOUR GitHub username.
 git clone https://github.com/RucuAvinash/ml-07-applied
